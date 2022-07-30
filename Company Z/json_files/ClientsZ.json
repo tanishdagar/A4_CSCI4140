@@ -1,0 +1,32 @@
+[
+    {
+        "clientIDZ": "100",
+        "clientNameZ": "Robbe Paskal ",
+        "clientCityZ": "London",
+        "clientStatusZ": "Active",
+        "dollarsOnOrderZ": "17174.00",
+        "clientCompPasswordZ": "RPaskal",
+        "moneyOwedZ": "0.00",
+        "DealsZ": "0"
+    },
+    {
+        "clientIDZ": "101",
+        "clientNameZ": "Mat Cedric",
+        "clientCityZ": "Chicago ",
+        "clientStatusZ": "Active",
+        "dollarsOnOrderZ": "2342423.00",
+        "clientCompPasswordZ": "MCedric",
+        "moneyOwedZ": "0.00",
+        "DealsZ": "0"
+    },
+    {
+        "clientIDZ": "102",
+        "clientNameZ": "Marlyn Prince",
+        "clientCityZ": "Ottawa ",
+        "clientStatusZ": "Active",
+        "dollarsOnOrderZ": "423200.00",
+        "clientCompPasswordZ": "MPrince ",
+        "moneyOwedZ": "0.00",
+        "DealsZ": "0"
+    }
+]

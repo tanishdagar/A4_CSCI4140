@@ -1,0 +1,50 @@
+[
+    {
+        "lineNoZ": "90",
+        "poNoZ": "37",
+        "partNoZ": "1",
+        "priceOrderedZ": "120.00",
+        "qtyZ": "2",
+        "companyName": "Comapny X"
+    },
+    {
+        "lineNoZ": "91",
+        "poNoZ": "37",
+        "partNoZ": "2",
+        "priceOrderedZ": "50.00",
+        "qtyZ": "1",
+        "companyName": "Comapny X"
+    },
+    {
+        "lineNoZ": "92",
+        "poNoZ": "37",
+        "partNoZ": "5",
+        "priceOrderedZ": "20.00",
+        "qtyZ": "1",
+        "companyName": "Comapny X"
+    },
+    {
+        "lineNoZ": "93",
+        "poNoZ": "37",
+        "partNoZ": "6",
+        "priceOrderedZ": "1000.00",
+        "qtyZ": "1",
+        "companyName": "Comapny X"
+    },
+    {
+        "lineNoZ": "94",
+        "poNoZ": "37",
+        "partNoZ": "1",
+        "priceOrderedZ": "2.00",
+        "qtyZ": "2",
+        "companyName": "Comapny Y"
+    },
+    {
+        "lineNoZ": "95",
+        "poNoZ": "37",
+        "partNoZ": "2",
+        "priceOrderedZ": "120.00",
+        "qtyZ": "2",
+        "companyName": "Comapny Y"
+    }
+]

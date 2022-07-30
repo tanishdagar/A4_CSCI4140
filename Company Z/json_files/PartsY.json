@@ -1,0 +1,50 @@
+[
+    {
+        "partNoY": "1",
+        "partNameY": "Hockey Puck",
+        "partDescriptionY": "Hockey Puck ",
+        "QoHY": "18",
+        "currentPriceY": "2.00",
+        "productImageY": "hockeyPuck.jpeg"
+    },
+    {
+        "partNoY": "2",
+        "partNameY": "Toronto Maple Leafs Jersey ",
+        "partDescriptionY": "Toronto Maple Leafs Blue Jersey ",
+        "QoHY": "2",
+        "currentPriceY": "120.00",
+        "productImageY": "MapleLeafsJersey.jpeg"
+    },
+    {
+        "partNoY": "3",
+        "partNameY": "Hockey Stick",
+        "partDescriptionY": "Hockey Stick",
+        "QoHY": "49",
+        "currentPriceY": "70.00",
+        "productImageY": "HockeyStick.jpeg"
+    },
+    {
+        "partNoY": "4",
+        "partNameY": "Nike Backpack",
+        "partDescriptionY": "Nike Bag",
+        "QoHY": "7",
+        "currentPriceY": "80.00",
+        "productImageY": "NikeBackpack.jpeg"
+    },
+    {
+        "partNoY": "5",
+        "partNameY": "Puma Ankle Socks",
+        "partDescriptionY": "Puma Socks",
+        "QoHY": "15",
+        "currentPriceY": "25.00",
+        "productImageY": "PumaSocks.jpeg"
+    },
+    {
+        "partNoY": "6",
+        "partNameY": "Hockey Ice Skates",
+        "partDescriptionY": "Hockey Ice Skating Shoes",
+        "QoHY": "37",
+        "currentPriceY": "100.00",
+        "productImageY": "HockeySkates.jpeg"
+    }
+]

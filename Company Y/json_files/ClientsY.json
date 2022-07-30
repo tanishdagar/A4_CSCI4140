@@ -1,0 +1,42 @@
+[
+    {
+        "clientIDY": "1111",
+        "clientNameY": "Ty Fetinko",
+        "clientCityY": "Halifax",
+        "clientStatusY": "Active",
+        "dollarsOnOrderY": "0.00",
+        "clientCompPasswordY": "ABCDEF",
+        "moneyOwedY": "390.00",
+        "DealsY": "0"
+    },
+    {
+        "clientIDY": "1112",
+        "clientNameY": "Jessica Smith",
+        "clientCityY": "Dartmouth ",
+        "clientStatusY": "Active",
+        "dollarsOnOrderY": "363.00",
+        "clientCompPasswordY": "JSMITH",
+        "moneyOwedY": "0.00",
+        "DealsY": "2"
+    },
+    {
+        "clientIDY": "1113",
+        "clientNameY": "Robert Cummins",
+        "clientCityY": "Saint John",
+        "clientStatusY": "Active",
+        "dollarsOnOrderY": "0.00",
+        "clientCompPasswordY": "RCUMMINS",
+        "moneyOwedY": "395.00",
+        "DealsY": "0"
+    },
+    {
+        "clientIDY": "1114",
+        "clientNameY": "Company Z",
+        "clientCityY": "Not Applicable ",
+        "clientStatusY": "Active",
+        "dollarsOnOrderY": "9999.00",
+        "clientCompPasswordY": "CompanyZ",
+        "moneyOwedY": "0.00",
+        "DealsY": "0"
+    }
+]

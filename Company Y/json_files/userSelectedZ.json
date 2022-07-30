@@ -1,0 +1,32 @@
+[
+    {
+        "idZ": "1",
+        "dataIDZ": "1",
+        "totalpriceZ": "2",
+        "clientIDZ": "100"
+    },
+    {
+        "idZ": "2",
+        "dataIDZ": "2",
+        "totalpriceZ": "120",
+        "clientIDZ": "100"
+    },
+    {
+        "idZ": "3",
+        "dataIDZ": "1",
+        "totalpriceZ": "2",
+        "clientIDZ": "100"
+    },
+    {
+        "idZ": "4",
+        "dataIDZ": "1",
+        "totalpriceZ": "2",
+        "clientIDZ": "100"
+    },
+    {
+        "idZ": "5",
+        "dataIDZ": "2",
+        "totalpriceZ": "120",
+        "clientIDZ": "100"
+    }
+]

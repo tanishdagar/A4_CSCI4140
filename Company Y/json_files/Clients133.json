@@ -1,0 +1,42 @@
+[
+    {
+        "clientID133": "1",
+        "clientName133": "James Taylor",
+        "clientCity133": "Halifax ",
+        "clientStatus133": "Active",
+        "dollarsOnOrder133": "0.00",
+        "clientCompPassword133": "12345",
+        "moneyOwed133": "120.00",
+        "Deals133": "0"
+    },
+    {
+        "clientID133": "2",
+        "clientName133": "Mark Lynch",
+        "clientCity133": "Toronto ",
+        "clientStatus133": "Active",
+        "dollarsOnOrder133": "2000.00",
+        "clientCompPassword133": "09876",
+        "moneyOwed133": "0.00",
+        "Deals133": "0"
+    },
+    {
+        "clientID133": "3",
+        "clientName133": "Tanish Dagar",
+        "clientCity133": "New Delhi ",
+        "clientStatus133": "Active",
+        "dollarsOnOrder133": "4000.00",
+        "clientCompPassword133": "Tdagar",
+        "moneyOwed133": "0.00",
+        "Deals133": "0"
+    },
+    {
+        "clientID133": "4",
+        "clientName133": "Pierre Perrin",
+        "clientCity133": "Qubec city ",
+        "clientStatus133": "Active",
+        "dollarsOnOrder133": "0.00",
+        "clientCompPassword133": "PPerrin",
+        "moneyOwed133": "230.00",
+        "Deals133": "0"
+    }
+]
